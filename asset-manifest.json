@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MOVIZHUB/static/css/main.9a4eb742.css",
+    "main.js": "/MOVIZHUB/static/js/main.28c5717d.js",
+    "static/js/787.74ceadb4.chunk.js": "/MOVIZHUB/static/js/787.74ceadb4.chunk.js",
+    "index.html": "/MOVIZHUB/index.html",
+    "main.9a4eb742.css.map": "/MOVIZHUB/static/css/main.9a4eb742.css.map",
+    "main.28c5717d.js.map": "/MOVIZHUB/static/js/main.28c5717d.js.map",
+    "787.74ceadb4.chunk.js.map": "/MOVIZHUB/static/js/787.74ceadb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a4eb742.css",
+    "static/js/main.28c5717d.js"
+  ]
+}
