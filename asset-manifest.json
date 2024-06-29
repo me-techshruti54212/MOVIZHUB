@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MOVIZHUB/static/css/main.9a4eb742.css",
-    "main.js": "/MOVIZHUB/static/js/main.2ee96bb8.js",
-    "static/js/787.74ceadb4.chunk.js": "/MOVIZHUB/static/js/787.74ceadb4.chunk.js",
-    "index.html": "/MOVIZHUB/index.html",
-    "main.9a4eb742.css.map": "/MOVIZHUB/static/css/main.9a4eb742.css.map",
-    "main.2ee96bb8.js.map": "/MOVIZHUB/static/js/main.2ee96bb8.js.map",
-    "787.74ceadb4.chunk.js.map": "/MOVIZHUB/static/js/787.74ceadb4.chunk.js.map"
+    "main.css": "/MovizHub/static/css/main.9a4eb742.css",
+    "main.js": "/MovizHub/static/js/main.5d55786b.js",
+    "static/js/787.74ceadb4.chunk.js": "/MovizHub/static/js/787.74ceadb4.chunk.js",
+    "index.html": "/MovizHub/index.html",
+    "main.9a4eb742.css.map": "/MovizHub/static/css/main.9a4eb742.css.map",
+    "main.5d55786b.js.map": "/MovizHub/static/js/main.5d55786b.js.map",
+    "787.74ceadb4.chunk.js.map": "/MovizHub/static/js/787.74ceadb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a4eb742.css",
-    "static/js/main.2ee96bb8.js"
+    "static/js/main.5d55786b.js"
   ]
 }
